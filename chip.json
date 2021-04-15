@@ -1,0 +1,14 @@
+{
+    "SortValveConfiguration": {
+        "ValveForOpenTime": 21,
+        "ValveIgnitionTime": 26,
+        "ValveHoldTime": 26,
+        "TravellingTimeMin": 26,
+        "TravellingTimeMax": 101,
+        "OpenTimeMin": 61,
+        "OpenTimeMax": 61,
+        "RedToValve": 181,
+        "BlueToValve": 131,
+        "VioletToValve": 81
+    }
+}
